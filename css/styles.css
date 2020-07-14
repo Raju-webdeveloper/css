@@ -46,12 +46,12 @@ padding: 40px 0 20px;
 .bottom_colud{
   position: absolute;
   left: 300px;
-  bottom: 350px;
+
 }
 .top_colud{
   position: absolute;
   right: 300px;
-  top: 50px;
+top:50px;
 }
 .pic{
   height: 200px;
